@@ -1,4 +1,4 @@
-# Practise_1
+# Practice_1
 
 ## Решение задачи:
 
