@@ -1,4 +1,4 @@
-# Practice_1
+# FormalLanguagesPractice
 
 ## Решение задачи:
 
